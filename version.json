@@ -1,9 +1,9 @@
 {
   "android": {
-    "latest": "1.0.1",
+    "latest": "1.0.2",
     "minimum": "0.1.0",
     "url": "https://github.com/sunhaifeng510/duosay-web/releases/latest/download/DuoSay.apk",
-    "notes": "· 长按说话更跟手，按下即录\n· 修复安静时偶现无关文字的问题\n· 新增应用内更新提醒"
+    "notes": "· 设置页正确显示当前版本号"
   },
   "ios": {
     "latest": "0.0.0",
