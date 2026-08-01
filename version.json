@@ -1,9 +1,9 @@
 {
   "android": {
-    "latest": "1.0.5",
+    "latest": "1.0.6",
     "minimum": "0.1.0",
     "url": "https://github.com/sunhaifeng510/duosay-web/releases/latest/download/DuoSay.apk",
-    "notes": "· 说话时文字逐字实时蹦出，识别修正立即可见\n· 实时识别刷新速度提升一倍\n· 对话后面板底部适时提示\"按住说话\"，递给对方也不怕不会用（感谢 Friday Ge 的建议 🙏）"
+    "notes": "· 新增「词典」：双击修改识别结果时，自动记住你纠正的词（可撤销）\n· 设置 → 词典：手动添加品牌、地名、行话\n· 词典引导识别与翻译，习惯用词越用越准"
   },
   "ios": {
     "latest": "0.0.0",
