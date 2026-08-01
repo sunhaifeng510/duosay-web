@@ -1,6 +1,6 @@
 {
   "android": {
-    "latest": "1.0.4",
+    "latest": "1.0.5",
     "minimum": "0.1.0",
     "url": "https://github.com/sunhaifeng510/duosay-web/releases/latest/download/DuoSay.apk",
     "notes": "· 说话时文字逐字实时蹦出，识别修正立即可见\n· 实时识别刷新速度提升一倍\n· 对话后面板底部适时提示\"按住说话\"，递给对方也不怕不会用（感谢 Friday Ge 的建议 🙏）"
