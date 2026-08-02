@@ -1,9 +1,9 @@
 {
   "android": {
-    "latest": "1.0.9",
+    "latest": "1.0.10",
     "minimum": "0.1.0",
     "url": "https://github.com/sunhaifeng510/duosay-web/releases/latest/download/DuoSay.apk",
-    "notes": "· 新增「离线模式」：没有网络也不慌（设置 → 离线）\n· 常用语手册：70 句旅行保命话，完全离线，可放大给对方看\n· 离线应急对话：提前下载语言包，断网也能基本翻译\n· 离线质量为应急级，页面里写清了所有局限"
+    "notes": "· 安装包恢复轻巧（离线模式将以更轻量的方式回归）"
   },
   "ios": {
     "latest": "0.0.0",
