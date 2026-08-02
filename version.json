@@ -1,9 +1,9 @@
 {
   "android": {
-    "latest": "1.0.7",
+    "latest": "1.0.8",
     "minimum": "0.1.0",
     "url": "https://github.com/sunhaifeng510/duosay-web/releases/latest/download/DuoSay.apk",
-    "notes": "· 翻译更守规矩：数字/日期/金额逐字保真；\"也许\"不会被说成\"一定\"；绝不添加你没说过的内容\n· 修复：「已加入词典」提示 3 秒后自动消失"
+    "notes": "· 设置新增「反馈问题」：遇到 bug 或有建议，一句话直达开发者"
   },
   "ios": {
     "latest": "0.0.0",
